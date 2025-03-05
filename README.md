@@ -1,0 +1,1 @@
+# higress-ai-search-mcp-server
