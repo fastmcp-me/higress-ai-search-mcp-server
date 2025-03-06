@@ -6,10 +6,13 @@ A Model Context Protocol (MCP) server that provides an AI search tool to enhance
 
 ## Demo
 
+### Cline
+
+https://github.com/user-attachments/assets/60a06d99-a46c-40fc-b156-793e395542bb
+
+### Claude Desktop
 
 https://github.com/user-attachments/assets/5c9e639f-c21c-4738-ad71-1a88cc0bcb46
-
-
 
 ## Features
 
