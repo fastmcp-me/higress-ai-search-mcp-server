@@ -6,7 +6,10 @@ A Model Context Protocol (MCP) server that provides an AI search tool to enhance
 
 ## Demo
 
-[Demo video placeholder]
+
+https://github.com/user-attachments/assets/5c9e639f-c21c-4738-ad71-1a88cc0bcb46
+
+
 
 ## Features
 
