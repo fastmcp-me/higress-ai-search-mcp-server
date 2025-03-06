@@ -1,6 +1,6 @@
 [project]
 name = "higress-ai-search-mcp-server"
-version = "0.0.0"
+version = "1.0.0"
 description = "Higress ai-search MCP Server"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -18,5 +18,4 @@ file = "LICENSE"
 higress-ai-search-mcp-server = "server:main"
 
 [tool.setuptools]
-# This is a workaround for https://github.com/astral-sh/uv/issues/9513
 license-files = []
