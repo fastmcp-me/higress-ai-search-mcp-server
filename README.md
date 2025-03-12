@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server that provides an AI search tool to enhance AI model responses with real-time search results from various search engines through [Higress](https://higress.cn/) [ai-search](https://github.com/alibaba/higress/blob/main/plugins/wasm-go/extensions/ai-search/README.md) feature.
 
+<a href="https://glama.ai/mcp/servers/gk0xde4wbp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/gk0xde4wbp/badge" alt="Higress AI-Search Server MCP server" />
+</a>
+
 ## Demo
 
 ### Cline
