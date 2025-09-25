@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1181/higress-ai-search)
+
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cr7258-higress-ai-search-mcp-server-badge.png)](https://mseep.ai/app/cr7258-higress-ai-search-mcp-server)
 
 # Higress AI-Search MCP Server
